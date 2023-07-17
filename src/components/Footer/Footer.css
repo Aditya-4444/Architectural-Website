@@ -1,0 +1,77 @@
+.f-container{
+    justify-content: space-between;
+}
+.f-left{
+    gap: 1rem;
+}
+.f-menu{
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+    font-weight: 500;
+    justify-content: center;
+}
+.Icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Icons>:nth-child(1){
+    color: white;
+    background-color: #E4405F;
+    padding: 5px;
+    border-radius: 999px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+.Icons>:nth-child(2){
+    color: white;
+    background-color: #00ACEE;
+    padding: 5px;
+    border-radius: 999px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+.Icons>:nth-child(3){
+    color: white;
+    background-color: #3B5998;
+    padding: 5px;
+    border-radius: 999px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+.Icons>:nth-child(4){
+    color: white;
+    background-color: #E60023;
+    padding: 5px;
+    border-radius: 999px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+.Icons>:nth-child(5){
+    color: white;
+    background-color: #0072b1;
+    padding: 5px;
+    border-radius: 999px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+@media (max-width:930px){
+    .f-container{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .f-container>div{
+        align-items: center !important;
+        text-align: center;
+    }
+}

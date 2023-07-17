@@ -1,0 +1,46 @@
+.h-wrapper{
+    background-color: var(--black);
+    color: white;
+}
+.container{
+    justify-content: space-between;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: var(--secondary);
+}
+.h-menu{
+    gap:2rem;
+    display: flex;
+    row-gap: 2rem;
+    /* justify-content: center; */
+    align-items: center;
+    flex-wrap: wrap;
+}
+.h-menu >:hover{
+    cursor: pointer;
+}
+.menu-icon{
+    display: none;
+}
+@media (max-width:820px) {
+    .menu-icon{
+        display: block;
+    }   
+    .h-menuu{
+        color: var(--black);
+        position: absolute;
+        top: 3rem;
+        right: 4rem;
+        background-color: white;
+        flex-direction: column;
+        font-weight: 500;
+        gap: 2rem;
+        padding: 3rem;
+        border-radius: 10px;
+        align-items: flex-start;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+    }   
+    .h-menu-new{
+        display: none;
+    }
+}

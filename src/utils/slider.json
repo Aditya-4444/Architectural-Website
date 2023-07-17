@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Textile Mueseum",
+      "price": "(AHMEDABAD, GUJARAT)",
+      "detail": "This design has aimed to make the structure more interactive.The journeyof the museum has been planned to provide small break areas after the galleries.",
+      "image": "./p1.png",
+      "book": [{"img": "./b1.png"},{"img": "./b7.png"}]
+    },
+    {
+      "name": "Hypermarket",
+      "price": "(JALANDHAR, PUNJAB)",
+      "detail": "The hypermarket was a commercial part of the project to provide an interactive place for daily shopping by the residents on the site.",
+      "image": "./p2.png",
+      "book": [{"img": "./2.1.png"},{"img": "./2.5.png"},{"img": "./2.8.png"}]
+    },
+    {
+      "name": "IIM Sirmaur",
+      "price": "(SIRMAUR, HIMACHAL PRADESH)",
+      "detail": "These blocks are accessed by a ring road running in the site, proposed to limit vehicular movement to the periphery of the site. The site plan is made pedestrian friendly.",
+      "image": "./p6.png",
+      "book": [{"img": "./3.1.png"},{"img": "./3.6.png"},{"img": "./3.7.png"}]
+    },
+    {
+      "name": "Katra Re-Deve...",
+      "price": "(KATRA, JAMMU & KASHMIR)",
+      "detail": "This design proposal is for the redevelopment of a road stretch in Katra. Understanding the issues and requirements of the stretch by analysis future master plan of the place",
+      "image": "./p4.png",
+      "book": [{"img": "./4.1.png"},{"img": "./4.2.png"},{"img": "./4.3.png"},{"img": "./4.4.png"},{"img": "./4.5.png"},{"img": "./4.6.png"},{"img": "./4.7.png"},{"img": "./4.8.png"},{"img": "./4.9.png"}]
+    }
+  ]
